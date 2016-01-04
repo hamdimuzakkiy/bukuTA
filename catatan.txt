@@ -1,3 +1,0 @@
-catatan buku TA :
-
-- backgroundSubstractorMOG()
